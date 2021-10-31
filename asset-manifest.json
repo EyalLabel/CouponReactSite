@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CouponReactSite/static/css/main.9b2bb60f.chunk.css",
+    "main.js": "/CouponReactSite/static/js/main.eb16f251.chunk.js",
+    "main.js.map": "/CouponReactSite/static/js/main.eb16f251.chunk.js.map",
+    "runtime-main.js": "/CouponReactSite/static/js/runtime-main.371822e1.js",
+    "runtime-main.js.map": "/CouponReactSite/static/js/runtime-main.371822e1.js.map",
+    "static/js/2.bc2510dd.chunk.js": "/CouponReactSite/static/js/2.bc2510dd.chunk.js",
+    "static/js/2.bc2510dd.chunk.js.map": "/CouponReactSite/static/js/2.bc2510dd.chunk.js.map",
+    "static/js/3.8355dd78.chunk.js": "/CouponReactSite/static/js/3.8355dd78.chunk.js",
+    "static/js/3.8355dd78.chunk.js.map": "/CouponReactSite/static/js/3.8355dd78.chunk.js.map",
+    "index.html": "/CouponReactSite/index.html",
+    "static/css/main.9b2bb60f.chunk.css.map": "/CouponReactSite/static/css/main.9b2bb60f.chunk.css.map",
+    "static/js/2.bc2510dd.chunk.js.LICENSE.txt": "/CouponReactSite/static/js/2.bc2510dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.371822e1.js",
+    "static/js/2.bc2510dd.chunk.js",
+    "static/css/main.9b2bb60f.chunk.css",
+    "static/js/main.eb16f251.chunk.js"
+  ]
+}
