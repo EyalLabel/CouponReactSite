@@ -1,0 +1,32 @@
+html,body,#root{
+  margin: 15;
+  padding: 5;
+  height: 100%;
+  text-align: center;
+  font-style: italic;
+  color:black;
+  
+  background-image: url("https://wp-mktg.prod.getty1.net/istockcontentredesign/wp-content/uploads/sites/5/2021/03/2021_iStock_LatestBGTrends_Hero.jpg.jpeg");
+}
+.custombox{
+ display: inline-block;
+ text-align: left;
+ border: 1px solid darkblue;
+ padding: 0% 10px;
+ margin: 10px;
+ border-radius: 10px;
+ box-shadow: 5px 5px 10px;
+}
+
+.photo{
+  height: 60px;
+  width: 60px;
+}
+
+ .nav{
+   font-size: x-large;
+ }
+ 
+ 
+ /* Now set the height of your Footer equal to the padding that you left for it in your #root.  To make it stay at the bottom, you will set it to be absolutely positioned.  If Main grows larger, your Footer will move down to remain at the bottom of the page. */ 
+ 

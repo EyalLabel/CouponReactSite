@@ -1,0 +1,21 @@
+.layout {
+    height: 100%;
+    box-sizing: border-box;
+    display: grid;
+    grid-template-rows: 18% 77% 5%  ;
+    grid-template-columns: repeat(6,1fr);
+    
+}
+.layout>header{
+    grid-column: span 6;
+}
+.layout>main{
+    grid-column: span 5;
+   
+}
+.layout>footer{
+    grid-column: span 6;
+}
+.layout,.layout>*{
+    border: 2px groove #4BA9DB;
+}
